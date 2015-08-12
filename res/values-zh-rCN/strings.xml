@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enable_p2p_button">P2P 开/关</string>
+    <string name="about_version">"版本信息"</string>
+    <string name="discover_peers_button">"发现设备"</string>
+    <string name="connect_peer_button">"连接"</string>
+    <string name="disconnect_peer_button">"断开连接"</string>
+    <string name="get_file_button">"打开图库"</string>
+    <string name="yes">"是 "</string>
+    <string name="no">"否"</string>
+    <string name="client_text">"本设备将作为客户端，点击图库按钮来选择本地文件"</string>
+    <string name="empty_message">"未发现远程设备.打开P2P并从状态栏按钮通过Wifi-Direct进入搜索P2P设备"</string>
+    <string name="p2p_off_warning">"在系统settings应用的状态栏按钮进入打开P2P功能"</string>
+    <string name="group_owner_text">"该设备是群主所有者吗？"</string>
+    <string name="label_me">"本设备"</string>
+    <string name="label_peers">"远程设备"</string>
+    <string name="source_ip">"源端ip地址:"</string>
+    <string name="exit">"退出Mircast"</string>
+    <string name="exit_miracast">"你将退出Mircast应用程序"</string>
+    <string name="connecting_desc">"正在连接到无线显示设备&#160;&#160;&#160;&#160;"</string>
+    <string name="connect_not_ready">"连接尚未准备好"</string>
+    <string name="connect_ready">"等待用户连接.\n\n确保通讯过程中您的%1$s的无线显示选项已经打开"</string>
+    <string name="device_name"  product="tablet">"平板电脑"</string>
+    <string name="device_name"  product="mbx">"机顶盒"</string>
+    <string name="device_name"  product="default">"机顶盒，平板电脑或是电视机"</string>
+    <string name="device_info">"设备名称"</string>
+    <string name="connected_info">"已连接"</string>
+    <string name="go">"去设置"</string>
+    <string name="discover_init">"搜索附近设备"</string>
+    <string name="discover_fail">"搜索附近设备失败"</string>
+    <string name="channel_try">"连接丢失，请重试"</string>
+    <string name="channel_close">"连接可能永久消失，请重新关闭后打开P2P选项."</string>
+    <string name="close_dlg">"我知道了"</string>
+    <string name="change_name">"重命名设备"</string>
+    <string name="find_progress">"返回键退出查找"</string>
+    <string name="find_title">"查找设备"</string>
+    <string name="wifi_p2p_failed_rename_message">"设备重命名失败"</string>
+    <!-- Manage applications, individual application screen, confirmation dialog button. Displays when user selects to "Clear data". Goes through with the clearing of the data. -->
+    <string name="dlg_ok">"确定"</string>
+    <!-- Manage applications, individual application screen, confirmation dialog button. Displays when user selects to "Clear data". -->
+    <string name="dlg_cancel">"取消"</string>
+    <string name="peer_list">"对等设备列表: "</string>
+    <string name="rtsp_fail">"连接失败"</string>
+    <string name="rtsp_suggestion">"连接丢失，请重新尝试连接......"</string>
+    <string name="setting_definition">"清晰度"</string>
+    <string name="setting_definition_sd">"标清"</string>
+    <string name="setting_definition_hd">"高清"</string>
+</resources>

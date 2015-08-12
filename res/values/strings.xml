@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name"  translatable="false">Miracast</string>
+    <string name="about_version">Version Information</string>
+    <string name="enable_p2p_button">P2P On/Off</string>
+    <string name="discover_peers_button">Search Device</string>
+    <string name="connect_peer_button">Connect</string>
+    <string name="disconnect_peer_button">Disconnect</string>
+    <string name="get_file_button">Launch Gallery</string>
+    <string name="empty" translatable="false"></string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="client_text">This device will act as a client. Click on Gallery button to pick a local(stored) file</string>
+    <string name="empty_message">No devices found. Turn on P2P and perform discovery from the Action Bar</string>
+    <string name="p2p_off_warning">Enable P2P from action bar button above or system settings</string>
+    <string name="group_owner_text">"Am I the Group Owner? "</string>
+    <string name="label_me">ME</string>
+    <string name="label_peers">PEERS</string>
+    <string name="source_ip">source ip:</string>
+    <string name="exit">exit miracast</string>
+    <string name="exit_miracast">Do you want to exit miracast?</string>
+    <string name="connecting_desc">Connecting to wireless display device &#160;&#160;&#160;&#160;</string>
+    <string name="connect_not_ready">Connect is not Ready.\n\n</string>
+    <string name="connect_ready">Waiting for the user to connect. \n\n Launch wireless display on your %1$s</string>
+    <string name="device_name"  product="tablet">tablet</string>
+    <string name="device_name"  product="mbx">mbox</string>
+    <string name="device_name"  product="default">mbox, tablet or tv</string>
+    <string name="device_info">Device:</string>
+    <string name="go">GO</string>
+    <string name="connected_info">"Connected"</string>
+    <string name="discover_init">Discovery Initiated</string>
+    <string name="discover_fail">Discovery Failed</string>
+    <string name="channel_try">Channel lost. Trying again</string>
+    <string name="channel_close">Severe! Channel is probably lost premanently. Try Disable/Re-Enable P2P.</string>
+    <string name="close_dlg">Close</string>
+    <string name="change_name">Rename Device</string>
+    <string name="find_progress">Press back to cancel</string>
+    <string name="find_title">finding peers</string>
+    <string name="wifi_p2p_failed_rename_message">Failed to rename device.</string>
+    <!-- Manage applications, individual application screen, confirmation dialog button. Displays when user selects to "Clear data". Goes through with the clearing of the data. -->
+    <string name="dlg_ok">OK</string>
+    <!-- Manage applications, individual application screen, confirmation dialog button. Displays when user selects to "Clear data". -->
+    <string name="dlg_cancel">Cancel</string>
+    <string name="peer_list">Peer List : </string>
+    <string name="rtsp_fail">Miracast Connection Failure</string>
+    <string name="rtsp_suggestion">Please retry miracast connection from source device ...</string>
+    <string name="setting_definition">Definition Settings</string>
+    <string name="setting_definition_sd">SD</string>
+    <string name="setting_definition_hd">HD</string>
+</resources>
